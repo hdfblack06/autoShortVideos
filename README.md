@@ -38,6 +38,12 @@ pip install -r requirements.txt
 python .\autoShortVideos.py
 ```
 
+## Split Stories
+
+> Cause Im Lazy so Why not
+> Inside `Split Stories` Folder A File `stories.txt` For All Stories, Every Story Separated with `|`
+> And `splitStories.ps1` Script To Do The Magic And Get All Stories in Different `Story_[index].txt` File
+
 ## Version History
 
 - `1.0.0`
